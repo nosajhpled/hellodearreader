@@ -1,0 +1,118 @@
+{
+  "Stand Alone Stories": [
+    {
+      "Title": "Just a Lake",
+      "Description": "Late night swim in the lake, what could go wrong?",
+      "Published": "March 21, 2019",
+      "ReadTime": "4",
+      "Link" : "./content.php?JustALake",
+      "Tags": [
+        "horror",
+        "suspense"
+      ]
+    },
+    {
+      "Title": "Memories of the Beach",
+      "Description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the",
+      "Published": "March 21, 2019",
+      "ReadTime": "4",
+      "Tags": [
+        "sad"
+      ]
+    },
+    {
+      "Title": "Auction",
+      "Description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the",
+      "Published": "March 21, 2019",
+      "ReadTime": "4",
+      "Tags": [
+        "sci-fi",
+        "humor",
+        "\r\n        badly written"
+      ]
+    },
+    {
+      "Title": "Turkey Day 1",
+      "Description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the",
+      "Published": "March 21, 2019",
+      "ReadTime": "4",
+      "Tags": [
+        "humor"
+      ]
+    },
+    {
+      "Title": "Cookies",
+      "Description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the",
+      "Published": "March 21, 2019",
+      "ReadTime": "4",
+      "Tags": [
+        "humor"
+      ]
+    },
+    {
+      "Title": "Turkey Day 2: Revenge of the Turkey",
+      "Description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the",
+      "Published": "March 21, 2019",
+      "ReadTime": "4",
+      "Tags": [
+        "humor"
+      ]
+    }
+  ],
+  "Poetry": [
+    {
+      "Title": "Scream’n Down The Interstate",
+      "Description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the",
+      "Published": "March 21, 2019",
+      "ReadTime": "4",
+      "Tags": [
+        "humor"
+      ]
+    },
+    {
+      "Title": "Running, running, running",
+      "Description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the",
+      "Published": "March 21, 2019",
+      "ReadTime": "4",
+      "Tags": [
+        "sad"
+      ]
+    },
+    {
+      "Title": "Oh Book O’ Mine",
+      "Description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the",
+      "Published": "March 21, 2019",
+      "ReadTime": "4",
+      "Tags": [
+        ""
+      ]
+    },
+    {
+      "Title": "Can I Have A Hug?",
+      "Description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the",
+      "Published": "March 21, 2019",
+      "ReadTime": "4",
+      "Tags": [
+        ""
+      ]
+    },
+    {
+      "Title": "Gym Rat (humor)",
+      "Description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the",
+      "Published": "March 21, 2019",
+      "ReadTime": "4",
+      "Tags": [
+        ""
+      ]
+    },
+    {
+      "Title": "Why I Walk (romance)",
+      "Description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the",
+      "Published": "March 21, 2019",
+      "ReadTime": "4",
+      "Tags": [
+        ""
+      ]
+    }
+  ]
+}
