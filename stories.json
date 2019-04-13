@@ -3,7 +3,7 @@
     {
       "Title": "Just a Lake",
       "Description": "Late night swim in the lake, what could go wrong?",
-      "Published": "March 21, 2019",
+      "Published": "July 18, 2014",
       "ReadTime": "4",
       "Link" : "./content.php?JustALake",
       "Tags": [
@@ -13,11 +13,12 @@
     },
     {
       "Title": "Memories of the Beach",
-      "Description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the",
-      "Published": "March 21, 2019",
+      "Description": "Memories can haught the living, but not the dead.",
+      "Published": "July 21, 2014",
       "ReadTime": "4",
+      "Link" : "./content.php?MemoriesoftheBeach",
       "Tags": [
-        "sad"
+        "sad","romance","tradgedy"
       ]
     },
     {
