@@ -2,6 +2,8 @@
   section{width:85%;margin:auto;background-color:#FEFEFE;}
   nav a{padding:10px; margin:10px;text-decoration:none;color:black}
   nav a:visted{text-decoration:none;color:black}
+  a{text-decoration:none;color:black}
+  a:visted{text-decoration:none;color:black}
   nav h2,h5 {line-height:5pt;}
   nav {font-size: 14px; line-height: 28px;}
   hr{height:2px;background-color:blue;clear:both;}

@@ -1,8 +1,5 @@
   body{font-family: 'Montserrat', sans-serif;font-size:15pt;line-height:28pt;color:#313135!important;background-color:#FEFEFE;}
   section{width:85%;margin:auto;background-color:#FEFEFE;}
-  a{text-decoration:none;color:black}
-  a:visted{text-decoration:none;color:black}
-
   nav a{padding:10px; margin:10px;text-decoration:none;color:black}
   nav a:visted{text-decoration:none;color:black}
   nav h2,h5 {line-height:5pt;}

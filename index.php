@@ -1,12 +1,19 @@
 <?php
 //var_dump($_SERVER);
 //die();
-include("./includes/header.php");
-/*$x = array();
-$x['Stand Alone Stories'][] = array("Title"=>"1","Description"=>"","Published"=>"","ReadTime"=>"","Tags"=>array("x","y"));
-$x['Poetry'][] = array("Title"=>"2","Description"=>"","Published"=>"","ReadTime"=>"","Tags"=>array("x","y"));
+/*
+$x = array();
+$x[] = array(
+  "Page Filename"=>"index.html",
+  "Title"=>"Index",
+  "Contents" => array(
+    array("Title"=>"1","Description"=>"","Published"=>"","ReadTime"=>"","Tags"=>array("x","y")),
+array("Title"=>"1","Description"=>"","Published"=>"","ReadTime"=>"","Tags"=>array("x","y"))
+));
+
 echo json_encode($x);
 die();*/
+include("./includes/header.html");
 $file = fopen("stories.json", "r") or die("Unable to open file!");
 $json = (fread($file,filesize("stories.json")));
 $stories = json_decode($json,true);
