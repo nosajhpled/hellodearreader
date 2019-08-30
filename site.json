@@ -29,10 +29,11 @@
       "Description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the",
       "Published": "March 21, 2019",
       "ReadTime": "4",
+      "Link" : "Auction",
       "Tags": [
         "sci-fi",
         "humor",
-        "\r\n        badly written"
+        "badly written"
       ]
     },
     {
@@ -69,9 +70,11 @@
   "Contents": [
     {
       "Title": "Scream’n Down The Interstate",
-      "Description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the",
+      "Description": "",
       "Published": "March 21, 2019",
       "ReadTime": "4",
+      "Link" : "ScreamnDownTheInterstate",
+      "Unformatted" : true,
       "Tags": [
         "humor"
       ]

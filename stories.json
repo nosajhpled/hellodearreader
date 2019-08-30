@@ -26,10 +26,11 @@
       "Description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the",
       "Published": "March 21, 2019",
       "ReadTime": "4",
+      "Link" : "./content.php?Auction",
       "Tags": [
         "sci-fi",
         "humor",
-        "\r\n        badly written"
+        "badly written"
       ]
     },
     {
@@ -66,6 +67,8 @@
       "Description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the",
       "Published": "March 21, 2019",
       "ReadTime": "4",
+      "Link" : "./content.php?ScreamnDownTheInterstate",
+      "Unformatted" : true,
       "Tags": [
         "humor"
       ]

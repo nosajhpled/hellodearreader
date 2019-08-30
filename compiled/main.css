@@ -7,7 +7,7 @@
   nav a:visted{text-decoration:none;color:black}
   nav h2,h5 {line-height:5pt;}
   nav {font-size: 14px; line-height: 28px;}
-  hr{height:2px;background-color:blue;clear:both;}
+  nav hr{height:2px;background-color:blue;clear:both;}
   section article {padding-left:20px;padding-bottom:10px; }
 
   section article h5,h6 {color:DarkGrey;font-weight:lighter;font-family: 'Source Sans Pro', sans-serif;}
